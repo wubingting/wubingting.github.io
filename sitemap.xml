@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/2014/09/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/2014/09/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/about-me/</loc>
+    <lastmod>2022-06-15T19:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2022-06-15T19:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/page/</loc>
+    <lastmod>2022-06-15T19:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/travel/</loc>
+    <lastmod>2022-06-15T19:59:10+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/2022/06/learning2/</loc>
+    <lastmod>2022-06-15T19:57:25+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2022-06-15T19:57:25+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/2022/06/learning/</loc>
+    <lastmod>2022-06-15T19:57:17+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+</urlset>

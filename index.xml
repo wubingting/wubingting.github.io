@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bingting Wu&#39;s Blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Bingting Wu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 19:59:24 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://example.org/2014/09/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2014/09/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://example.org/2014/09/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2014/09/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://example.org/about-me/</link>
+      <pubDate>Wed, 15 Jun 2022 19:59:24 +0200</pubDate>
+      
+      <guid>https://example.org/about-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://example.org/travel/</link>
+      <pubDate>Wed, 15 Jun 2022 19:59:10 +0200</pubDate>
+      
+      <guid>https://example.org/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning2</title>
+      <link>https://example.org/2022/06/learning2/</link>
+      <pubDate>Wed, 15 Jun 2022 19:57:25 +0200</pubDate>
+      
+      <guid>https://example.org/2022/06/learning2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://example.org/2022/06/learning/</link>
+      <pubDate>Wed, 15 Jun 2022 19:57:17 +0200</pubDate>
+      
+      <guid>https://example.org/2022/06/learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
